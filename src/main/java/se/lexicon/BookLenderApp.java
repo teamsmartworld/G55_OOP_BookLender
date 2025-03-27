@@ -2,6 +2,7 @@ package se.lexicon;
 
 public class BookLenderApp {
     public static void main(String[] args) {
+
         // Creating Person objects
         Person person1 = new Person("John", "Doe");
         Person person2 = new Person("Jane", "Smith");
