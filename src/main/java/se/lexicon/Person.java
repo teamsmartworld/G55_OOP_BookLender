@@ -1,3 +1,6 @@
+package se.lexicon;
+
+
 class Person {
     // Static sequencer to auto-generate unique IDs
     private static int sequencer = 0;
